@@ -12,7 +12,7 @@ const Page = () => {
                 <div className="flex flex-col gap-6 max-w-lg">
                     <h2>Get Interviewed in your domain by our AI Agent</h2>
                     <p className="text-lg">
-                        Get instant feedback
+                        With instant feedback
                     </p>
                     
                     <Button asChild className="btn-primary max-sm:w-full">

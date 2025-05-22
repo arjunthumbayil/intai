@@ -97,7 +97,7 @@ const AuthForm = ({ type }: { type: FormType }) => {
                     <h2 className="text-primary-100">SmartSelect</h2>
                 </div>
 
-                <h3>Practice job interview with AI</h3>
+                <h3>AI Interview Tailored to You</h3>
 
                 <Form {...form}>
                     <form onSubmit={form.handleSubmit(onSubmit)} className="w-full space-y-6 mt-4 form">
